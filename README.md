@@ -41,7 +41,7 @@
         <b>Eyebrows Distance</b>: horizontal distance between eyebrows
     </li>
     <li>
-        <b>Eyebrow Shape Detector 1</b>: A number to differentiate between (Straight | Other) eyebrow shapes
+        <b>Eyebrow Shape Detector 1</b>: The angle between 3 points (eyebrow left edge, eyebrow center, eyebrow right edge), to differentiate between (Straight | Non-straight) eyebrow shapes
     </li>
     <li>
         <b>Eyebrow Shape Detector 2</b>: A number to differentiate between (Curved | Angled) eyebrow shapes.
@@ -72,3 +72,14 @@
         <b>Lower Lip Height</b>
     </li>
 </ol>
+<h3><b>Inspirational Ideas</b></h3>
+<ul>
+    <li>Emotion Recognition from facial features</li>
+    <li>Face Identification / Authentication</li>
+    <li>Detect personality traits from facial features</li>
+    <li>Gender Classification</li>
+    <li>Down Syndrome Detection</li>
+    <li>In General: use it as a preprocessing step to study the relation between numeric data instead of images</li>
+</ul>
+<h3>Any Suggestions?</h3>
+<p>What else would be useful to measure? face width? mouth width (for smile detection)? distance between eyes and mouth? let me know your thoughts and I'll try to apply in a notebook update</p>
